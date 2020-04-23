@@ -1,0 +1,8 @@
+/async_fifo/db
+/async_fifo/incremental_db
+/async_fifo/output_files
+/async_fifo/simulation
+/async_fifo/*.rpt
+/async_fifo/*.qsf
+/async_fifo/*.qws
+/*.txt
